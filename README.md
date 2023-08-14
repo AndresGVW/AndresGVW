@@ -40,23 +40,25 @@ I am passionate about Data workflows, Data Efficiency, Data Transformation and V
 
 ## Work Experience
 
-### [Company Name] - [Role] | [Date Range]
+- Marsh McLennan Companies | Senior Finance Business Partner | 2020 - Current
+- Jardine Lloyd Thompson Group plc | Finance Operations Director - Latin America | 2018-2020
+- Jardine Lloyd Thompson Group plc | Employee Benefits - various financial reporting and implementation roles | 2013-2018
 
 - [One-liner about your role or responsibilities]
 - [Highlight any achievements or projects]
 
 ## Education
 
-•	Applied Data Science Program (2023) - MIT Professional Education
-•	Digital transformation (2019) - MIT Professional Education
-•	Analytic Techniques for Business - Duke University
-•	Certificate in Computer Science and Programming CS50 - Harvard Extension School
-•	Computational Thinking and Data Science - MIT Professional Education 
-•	Business Administration and Hospitality Management - Externado de Colombia University, Bogotá, Colombia 
+-	Applied Data Science Program (2023) - MIT Professional Education
+-	Digital transformation (2019) - MIT Professional Education
+-	Analytic Techniques for Business (2016) - Duke University
+-	Certificate in Computer Science and Programming CS50 (2015) - Harvard Extension School
+-	Computational Thinking and Data Science (2013) - MIT Professional Education 
+-	Business Administration and Hospitality Management - Externado de Colombia University, Bogotá, Colombia 
 
 ## Contact Me
 
 - GitHub: [My Github Profile](https://github.com/AndresGVW/AndresGVW)
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/eagvw)
+- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/eagvw)
 - Email: [Contact me via email](mailto:andresvonwalter@gmail.com)
 
