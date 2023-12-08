@@ -21,7 +21,7 @@ I am passionate about Data workflows, Data Efficiency, Data Transformation and V
 
 - **Technologies Used:** Exploratory Data Analysis | Visualization | Multicollinearity | Linear Regression | Regression Techniques
 
-- **GitHub Repository:** [Boston House PRice Prediction Jupyter Noebook](https://github.com/AndresGVW/BostonHousePricePrediction)
+- **GitHub Repository:** [Boston House Price Prediction Jupyter Noebook](https://github.com/AndresGVW/BostonHousePricePrediction)
 
 ### Project 3: FoodHub Order Analysis
 
