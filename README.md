@@ -44,9 +44,6 @@ I am passionate about Data workflows, Data Efficiency, Data Transformation and V
 - Jardine Lloyd Thompson Group plc | Finance Operations Director - Latin America | 2018-2020
 - Jardine Lloyd Thompson Group plc | Employee Benefits - various financial reporting and implementation roles | 2013-2018
 
-- [One-liner about your role or responsibilities]
-- [Highlight any achievements or projects]
-
 ## Education
 
 -	Applied Data Science Program (2023) - MIT Professional Education
